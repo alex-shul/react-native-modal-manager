@@ -13,7 +13,7 @@ Simple opening and closing modals in react-native with no dependencies
  - Separate modal state management logic from components, that use modals
  - Easily open the same modal from different components
  - Use some default props for all modals
- - Compatible with both: [react-native](https://reactnative.dev/docs/modal) modals and [react-native-modal](https://github.com/react-native-community/react-native-modal) animated modals.
+ - Compatible with [react-native](https://reactnative.dev/docs/modal) modals and [react-native-modal](https://github.com/react-native-community/react-native-modal) animated modals.
  
 ## Install
 `npm i react-native-modal-manager`
