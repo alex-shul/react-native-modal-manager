@@ -1,0 +1,31 @@
+{
+  "name": "react-native-modal-manager",
+  "version": "0.0.1",
+  "description": "Simple opening and closing modals in react-native with no dependencies",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alex-shul/react-native-modal-manager.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "modal",
+    "react-native-modal",
+    "manager",
+    "android",
+    "ios"
+  ],
+  "author": "Alex Shul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-shul/react-native-modal-manager/issues"
+  },
+  "homepage": "https://github.com/alex-shul/react-native-modal-manager#readme",
+  "dependencies": {
+    "react": "~16.11.0"
+  }
+}
