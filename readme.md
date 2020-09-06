@@ -1,7 +1,8 @@
 # react-native-modal-manager
 
-[![Stable Release](https://img.shields.io/npm/v/react-native-modal-manager.svg)](https://www.npmjs.com/package/react-native-modal-manager)
-[![license](https://img.shields.io/npm/l/react-native-modal-manager)](./license.txt)
+[![Last version](https://img.shields.io/npm/v/react-native-modal-manager.svg)](https://www.npmjs.com/package/react-native-modal-manager)
+[![License](https://img.shields.io/npm/l/react-native-modal-manager)](./license.txt)
+[![Downloads](https://img.shields.io/npm/dw/react-native-modal-manager)](https://www.npmjs.com/package/react-native-modal-manager)
 
 Simple opening and closing modals in react-native with no dependencies
 
